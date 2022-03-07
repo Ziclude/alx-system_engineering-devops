@@ -2,7 +2,8 @@
 --------------------------------------
 We are tryins to exercise ourselves on shell redirections.
 -------------------------------------------
-1. A "hello word" sccript.
+0. A "hello word" sccript.
+1. A confused smile script.
 2. A display script.
 3. A two files display script.
 4. A last lines display script.
