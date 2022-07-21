@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# Displays 'Best School' in stdout 10 times using the loop
+# Displays IP and HTTP status code
+# Displays number of occurence in sorted order
 
+awk '{print $1 " " $9}' apache-access.log | sort | uniq -c | sort -rn
