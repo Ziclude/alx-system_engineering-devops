@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Accepts string that pings Ip address
+
+if [ "$#" -eq 0 ]; then
+echo
