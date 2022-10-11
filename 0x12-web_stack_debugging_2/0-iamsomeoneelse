@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script for one argumrnt and who am I
+
+sudo -u "$1" whoami
